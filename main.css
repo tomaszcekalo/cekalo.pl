@@ -1,0 +1,42 @@
+body {
+  font: 10px sans-serif;
+}
+
+.linage {
+  fill: none;
+  stroke: #000;
+}
+
+.marriage {
+  fill: none;
+  stroke: black;
+}
+
+.man {
+  background-color: lightblue;
+  border-style: solid;
+  border-width: 1px;
+  height: auto !important;
+  width: auto !important;
+}
+
+.woman {
+  background-color: pink;
+  border-style: solid;
+  border-width: 1px;
+  height: auto !important;
+  width: auto !important;
+}
+
+.emphasis {
+  font-style: italic;
+}
+
+p {
+  padding: 1px;
+  margin: 0;
+}
+
+#graph svg{
+	border: 1px black solid;
+}
