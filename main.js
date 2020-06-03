@@ -78,15 +78,15 @@ treeData = [{
 				"class": "woman"
 			},
 			"children": [{
-				"name": "Monika Cekało",
+				"name": "",//"Monika Cekało",
 				"class": "woman",
 				"marriages": [{
 					"spouse": {
-						"name": "Emil Śmigielski",
+						"name": "",//"Emil Śmigielski",
 						"class": "man"
 					},
 					"children": [{
-						"name": "Leon Śmigielski",
+						"name": "",//"Leon Śmigielski",
 						"class": "man"
 					}]
 				}]
