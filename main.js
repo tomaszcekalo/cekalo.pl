@@ -48,7 +48,11 @@ treeData = [{
 			"spouse": {
 				"name": "Elżbieta Cekało (Kondzior)",
 				"class": "woman"
-			}
+			  },
+			  "children": [{
+				  "name": "Kacper",
+				  "class": "man"
+              }]
 		  }]
         }, {
           "name": "Krzysztof Cekało",
@@ -91,8 +95,18 @@ treeData = [{
 					}]
 				}]
 				}, {
-				"name": "Wojciech Cekało",
-				"class": "man"
+					"name": "Wojciech Cekało",
+					"class": "man",
+					"marriages": [{
+						"spouse": {
+							"name": "Justyna",
+							"class": "woman"
+						},
+						"children": [{
+							"name": "Jan",
+							"class": "man"
+						}]
+					}]
 			}]
 		}]
 	}, {
@@ -113,7 +127,11 @@ treeData = [{
 					"spouse": {
 						"name": "Karol Dymko",
 						"class": "man"
-					}
+					},
+					"children": [{
+						"name": "Kornelia Dymko",
+						"class": "woman"
+                    }]
 				}]
 			}]
 		}]
